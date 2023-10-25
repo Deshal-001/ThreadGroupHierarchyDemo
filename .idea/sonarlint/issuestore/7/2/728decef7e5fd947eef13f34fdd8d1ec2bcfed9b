@@ -1,0 +1,6 @@
+
+k
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(Ø…ÿûÿÿÿÿ8¬íË¯¶1
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¶íË¯¶1
+X	java:S125"<This block of commented-out lines of code should be removed.(ë‰ï˜8¸íË¯¶1
